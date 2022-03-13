@@ -3,7 +3,7 @@ import os
 import pandas as pd
 
 # Se definen nuestros datasets
-df = pd.read_csv(r'datasets/indices_financieros.csv')
+df = pd.read_csv(r'indices_financieros.csv')
 '''-----------------------------
 Dataset que corresponde a un 'merge' y posterior adaptación de seis fuentes de datos recogidas por el Banco Mundial:
     - Global Findex
@@ -15,13 +15,13 @@ Dataset que corresponde a un 'merge' y posterior adaptación de seis fuentes de 
 
 -----------------------------'''
 
-df2017 = pd.read_csv(r'datasets/indices_2017.csv')
+df2017 = pd.read_csv(r'indices_2017.csv')
 '''-----------------------------
 Selección de datos específicos del año 
 
 -----------------------------'''
 
-df2014 = pd.read_csv(r'datasets/indices_2014.csv')
+df2014 = pd.read_csv(r'indices_2014.csv')
 '''-----------------------------
 Dataset que corresponde a un 'merge' de cinco fuentes distintas:
 - World Bank
@@ -34,4 +34,4 @@ Dataset que corresponde a un 'merge' de cinco fuentes distintas:
 -----------------------------'''
 
 
-df2011 = pd.read_csv(r'datasets/indices_2011.csv')
+df2011 = pd.read_csv(r'indices_2011.csv')
