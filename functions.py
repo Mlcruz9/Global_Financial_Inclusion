@@ -27,7 +27,7 @@ def home():
     st.title('La digitalización de las finanzas: una oportunidad para reducir la pobreza')
 
     st.subheader('Análisis exploratorio de datos \n Global Findex: Base de datos sobre la inclusión financiera en el mundo')
-    st.image('imagen/boat-market-marquee-1600x900.jpg', caption='La educación financiera capacita a las personas, reduciendo situaciones de vulnerabilidad y dependencia')
+    st.image('boat-market-marquee-1600x900.jpg', caption='La educación financiera capacita a las personas, reduciendo situaciones de vulnerabilidad y dependencia')
     st.markdown('*El presente trabajo analiza los datos aportados por Global Findex sobre los niveles de desbancarización en el mundo, \
         con un énfasis especial en los parámetros comunes de aquellos países donde está creciendo la inclusión financiera. \
         Un análisis inicial de los resultados en los distintos años (2011, 2014, 2017) indica una clara tendencia a la \
@@ -197,7 +197,7 @@ def bancarizacion():
         las estadísticas a nivel país, el cual nos permite aprender de las estrategias de bancarización seguidas por cada unidad política.')
 
     st.subheader('Crecimiento anual por región')
-    st.image('imagen/FS-china-boy-on-bike-780.jpg', caption='La expansión de internet ha facilitado el acceso a servicios financieros en zonas remotas')
+    st.image('FS-china-boy-on-bike-780.jpg', caption='La expansión de internet ha facilitado el acceso a servicios financieros en zonas remotas')
 
 
     # Descripción crecimiento anual por regiones
@@ -233,7 +233,7 @@ def avances_digitales():
         menor acceso a servicios financieros la que más necesidad tiene de estos. De hecho, los datos proporcionados por el Global Index\
         indican que en zonas más remotas ha aumentado su bancarización considerablemente gracias a nuevas tecnologías.')
 
-    st.image('imagen/IMG_0420_rdax_782x521s.jpg', caption='Las herramientas de pago móvil están estrechamente relacionadas al aumento de la inclusión financiera a poblaciones aisladas')
+    st.image('IMG_0420_rdax_782x521s.jpg', caption='Las herramientas de pago móvil están estrechamente relacionadas al aumento de la inclusión financiera a poblaciones aisladas')
 
     st.subheader('La expansión de servicios financieros tecnológicos durante la década pasada ha supuesto un proceso de transformaciones en la gestión de las finanzas del hogar.')  
     
@@ -469,7 +469,7 @@ def mujer():
     familiares y personas próximas ante emergencias.')
 
     
-    st.image(r'imagen/es_oif_la-dona-martin-chiesa_12_2016.jpg')
+    st.image(r'es_oif_la-dona-martin-chiesa_12_2016.jpg')
 
     st.write('El acceso a servicios financieros entre hombres y mujeres, aunque dispar por 3 puntos porcentuales \
         globalmente y una diferencia mayor por regiones, requiere de una examinación más cercana en el uso de los servivios, ya que \
@@ -679,7 +679,7 @@ def mujer():
 def educacion():
 
     st.subheader('El principal motivo de la desbancarización es el analfabetismo financiero')    
-    st.image('imagen/IMG_0199_rdax_782x521s.jpg', caption='El nivel de educación es un aspecto determinante en la gestión de servicios financieros')
+    st.image('IMG_0199_rdax_782x521s.jpg', caption='El nivel de educación es un aspecto determinante en la gestión de servicios financieros')
     st.write('La incomprensión de los servicios financieros genera una situación de dependencia alta, ante la cual existe mayor vulnerabilidad \
     ante prestamistas que imponen tasas abusivas generando mayor desconfianza. Además, es común que servicios financieros en zonas remotas \
     estén disponibles en idiomas oficiales de un país, a veces no hablado ni leído en áreas remotas. La educación financiera debe ser \
@@ -862,7 +862,7 @@ def conclusion():
     st.title('Conclusión')
     st.write('La digitalización nos ofrece una oportunidad única, pero no es suficiente por sí sola para procurar una efectiva \
         bancarización accesible a todos: es necesario compaginarla con educación financiera.')
-    st.image(r'imagen/03-three-fishermen-on-inle-lake-aerial.jpg')
+    st.image(r'03-three-fishermen-on-inle-lake-aerial.jpg')
 
     st.write('La última ha década ha supuesto un crecimiento global en la expansión de servicios financieros formales a poblaciones \
         sin bancarizar. Gran parte de este crecimiento viene de la mano del mayor alcance de internet. No obstante, en zonas \
