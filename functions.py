@@ -135,7 +135,7 @@ def home():
 - Acceso a teléfonos móviles. Son datos del año 2018, expresados en porcentaje de población por país. Extraído de https://data.worldbank.org/indicator/IT.CEL.SETS.P2. Hay más información al respecto en https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx.\n\
 - Datos de población mundial por país. Se extraaen del Banco Mundial. Accesibles en: https://data.worldbank.org/indicator/SP.POP.TOTL.\n\
 - Datos sobre la posición geográfica de los países: https://gist.githubusercontent.com/tadast/8827699/raw/3cd639fa34eec5067080a61c69e3ae25e3076abb/countries_codes_and_coordinates.csv')
-        st.write('Para acceder al dataframe tratado, consultar en: https://github.com/gonzalovf1996')
+        st.write('Para acceder al dataframe tratado, consultar en: https://github.com/gonzalovf1996/Global_Financial_Inclusion')
 
 
 
