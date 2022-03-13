@@ -256,7 +256,7 @@ def avances_digitales():
         fig_0.show()
         st.plotly_chart(fig_0)
 
-    if tipo_giint == 'Tenencia de dispositivos móvilesq':
+    if tipo_giint == 'Tenencia de dispositivos móviles':
         fig_2 = px.scatter(
             df2017[['Region','Entity','Individuals using the Internet (% of population)','Access to electricity (% of population)','Cell phones (per 100 people)','Account (% age 15+)', 'Population']],
             x='Account (% age 15+)',
