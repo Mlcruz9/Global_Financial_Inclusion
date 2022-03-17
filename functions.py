@@ -26,7 +26,8 @@ def home():
     
     st.title('La digitalización de las finanzas: una oportunidad para reducir la pobreza')
 
-    st.subheader('Análisis exploratorio de datos \n Global Findex: Base de datos sobre la inclusión financiera en el mundo \n Elaborado por Gonzalo Villalón Fornés')
+    st.subheader('Análisis exploratorio de datos \n Global Findex: Base de datos sobre la inclusión financiera en el mundo')
+    st.write('Elaborado por Gonzalo Villalón Fornés')
     st.image('imagen/boat-market-marquee-1600x900.jpg', caption='La educación financiera capacita a las personas, reduciendo situaciones de vulnerabilidad y dependencia')
     st.markdown('*El presente trabajo analiza los datos aportados por Global Findex sobre los niveles de desbancarización en el mundo, \
         con un énfasis especial en los parámetros comunes de aquellos países donde está creciendo la inclusión financiera. \
