@@ -1,6 +1,6 @@
 # La digitalización de las finanzas: una oportunidad para reducir la pobreza
 
-### Análisis exploratorio de datos
+## Análisis exploratorio de datos
 ----------------------------------------------------------------------------------------------
 
 Global Findex: Base de datos sobre la inclusión financiera en el mundo
@@ -15,8 +15,11 @@ _El presente trabajo analiza los datos aportados por Global Findex sobre los niv
 
 
 ## Analisis
+----------------------------------------------------------------------------------------------
 
 Publicado en Streamlit App 👉 [Global Financial Inclusion · Streamlit](https://share.streamlit.io/gonzalovf1996/global_financial_inclusion/main/main.py)
+
+
 
 ## Referencias del estudio
 ----------------------------------------------------------------------------------------------
