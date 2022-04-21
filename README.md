@@ -5,7 +5,7 @@
 
 Global Findex: Base de datos sobre la inclusión financiera en el mundo
 
-Publicación 👉 [Global Financial Inclusion · Streamlit](https://share.streamlit.io/gonzalovf1996/global_financial_inclusion/main/main.py)
+[Global Financial Inclusion · Streamlit](https://share.streamlit.io/gonzalovf1996/global_financial_inclusion/main/main.py)
 
 ![imagen portada](imagen/boat-market-marquee-1600x900.jpg)
 
