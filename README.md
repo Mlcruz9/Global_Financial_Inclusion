@@ -29,23 +29,23 @@ Tras este recurso hay un trabajo muy elaborado en el que han participado más de
 
 El informe del año 2017 incluye como novedad cuestiones sobre tecnología digital, teléfonos móviles e internet, aspectos esenciales en la inclusión financiera.
 
-La base de datos está disponible en _Demirgüç-Kunt, Asli, Leora Klapper, Dorothe Singer, Saniya Ansar, and Jake Hess. 2018. The Global Findex Database 2017: Measuring Financial Inclusion and the Fintech Revolution. Washington, D.C: Banco Mundial._ Accesible en: https://globalfindex.worldbank.org/index.php/#data_sec_focus.
+La base de datos está disponible en _Demirgüç-Kunt, Asli, Leora Klapper, Dorothe Singer, Saniya Ansar, and Jake Hess. 2018. The Global Findex Database 2017: Measuring Financial Inclusion and the Fintech Revolution. Washington, D.C_. Extraídos del [Banco Mundial](https://globalfindex.worldbank.org/index.php/#data_sec_focus).
 
 
 ### Otros datos utilizados:
 
 Se han consultado las siguientes bases de datos:
 
-__Acceso a electricidad en el mundo__. Incluye datos de 1990 a 2019. Unidad de medida: porcentaje de población por país (incluye 170 países). Fuente: Banco Mundial (World Development Indicators - World Bank (2021.07.30)). Extraído de https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS.
+__Acceso a electricidad en el mundo__. Incluye datos de 1990 a 2019. Unidad de medida: porcentaje de población por país (incluye 170 países). Extraídos del [Banco Mundial](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS).
 
-__Acceso a la educación en el mundo__. Se incluyen dos datasets, distinguiendo el acceso a la educación por parte de hombres adultos y de mujeres adultas. Datos del Banco Mundial, facilitados por un usuario de GitHub: https://github.com/cllocc/DAND_project_2 (los datos sin tratar están accesibles en https://databank.worldbank.org/EdStats_Indicators_Report/id/c755d342#).
+__Acceso a la educación en el mundo__. Se incluyen dos datasets, distinguiendo el acceso a la educación por parte de hombres adultos y de mujeres adultas. Datos del Banco Mundial, facilitados por un usuario de [GitHub](https://github.com/cllocc/DAND_project_2). Los datos sin tratar están accesibles en el [Banco Mundial](https://databank.worldbank.org/EdStats_Indicators_Report/id/c755d342#).
 
-__Ratio de alfabetismo en el mundo__. Incluye datos de mayores de 15 años, en porcentaje de población por país. Son datos proporcionados por UNICEF con fecha de abril del año 2021. Extraído de https://data.unicef.org/topic/education/learning-and-skills/.
+__Ratio de alfabetismo en el mundo__. Incluye datos de mayores de 15 años, en porcentaje de población por país. Son datos proporcionados por [UNICEF](https://data.unicef.org/topic/education/learning-and-skills/) con fecha de abril del año 2021.
 
-__Acceso global a internet__. Son datos del año 2017, expresados en porcentaje de población por país. Son datos proporcionados por la ONU, y tratados por https://data.worldbank.org/indicator/IT.NET.USER.ZS.
+__Acceso global a internet__. Son datos del año 2017, expresados en porcentaje de población por país. Son datos proporcionados por la ONU, y tratados por el [Banco Mundial](https://data.worldbank.org/indicator/IT.NET.USER.ZS).
 
-__Acceso a teléfonos móviles__. Son datos del año 2018, expresados en porcentaje de población por país. Extraído de https://data.worldbank.org/indicator/IT.CEL.SETS.P2. Hay más información al respecto en https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx.
+__Acceso a teléfonos móviles__. Son datos del año 2018, expresados en porcentaje de población por país. Extraído del [Banco Mundial]( https://data.worldbank.org/indicator/IT.CEL.SETS.P2).
 
-__Datos de población mundial por país__. Se extraaen del Banco Mundial. Accesibles en: https://data.worldbank.org/indicator/SP.POP.TOTL.
+__Datos de población mundial por país__. Se extraen del [Banco Mundial](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
-__Datos sobre la posición geográfica de los países__: https://gist.githubusercontent.com/tadast/8827699/raw/3cd639fa34eec5067080a61c69e3ae25e3076abb/countries_codes_and_coordinates.csv
+__Datos sobre la posición geográfica de los países__: [CSV](https://gist.githubusercontent.com/tadast/8827699/raw/3cd639fa34eec5067080a61c69e3ae25e3076abb/countries_codes_and_coordinates.csv) .
